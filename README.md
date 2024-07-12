@@ -3,7 +3,7 @@ developing weather app using html css js for Bharatintern as task 2
 
 Live Demo =  https://mr-pratiktikhe.github.io/Quiz_App-WebApp/
 
-Api used = https://api.openweathermap.org/data/2.5/weather?q=${cityValue}&appid=${key}&units=metric
+Api used = https://api.openweathermap.org
 
 make shure you use your own key !
 
